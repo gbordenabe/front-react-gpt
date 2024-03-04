@@ -7,3 +7,5 @@ export * from './chat-input-boxes/TextMessageBoxFile';
 export * from './chat-input-boxes/TextMessageBoxSelect';
 export * from './chat-bubbles/GptOrthographyMessage';
 export * from './chat-bubbles/GptMessageAudio';
+export * from './chat-bubbles/GptMessageImage';
+export * from './chat-bubbles/GptMessageSelectableImage';
